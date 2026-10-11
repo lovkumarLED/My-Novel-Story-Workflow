@@ -2,6 +2,8 @@
 name: Seraphine Drakemore
 role: supporting
 status: alive
+gender: female
+pronouns: she/her
 aliases: []
 voice-words:
   - "blood will tell"
@@ -36,19 +38,19 @@ arc: ""
 
 ## Appearance
 
-A dragon-noble of the warrior party, handsome in a honed way, wearing dueling leathers and house colors at court. Moves like a swordsman even unarmed, smiles thinly before delivering insults framed as etiquette lessons.
+A dragon-noble of the warrior party, striking and sharply composed, wearing dueling leathers and house colors at court. Moves like a trained swordswoman even unarmed, smiling thinly before delivering insults framed as etiquette lessons.
 
 ## Personality & Traits
 
-Arrogant, loyal to Rivona, and openly hostile to Love. He believes nobility is proven by humiliating inferiors until they flee. Clever at court games: delays, false invitations, rigged trials of skill. His loyalty to Rivona is real, which makes his sabotage harder for her to disown.
+Arrogant, loyal to Rivona, and openly hostile to Love. She believes nobility is proven by humiliating inferiors until they flee. Clever at court games: delays, false invitations, rigged trials of skill. Her loyalty to Rivona is real, which makes her sabotage harder for Rivona to disown.
 
 ## Backstory
 
-Raised among dragon-nobles beside Rivona and Serapha, trained to see humans as tribute-bearers, not kin. When ancient law made a poor human the princess's husband, Kaelith took it as a personal insult to his circle and vowed to expose Love as unfit through pressure and trickery.
+Raised among dragon-nobles beside Rivona and Serapha, trained to see humans as tribute-bearers, not kin. When ancient law made a poor human the princess's husband, Seraphine took it as a personal insult to her circle and vowed to expose Love as unfit through pressure and trickery.
 
 ## Motivations & Goals
 
-He wants the binding broken and Rivona restored to a dragon match. He needs to learn that honor without fairness is mere bullying, though he resists it. Every scheme aims to make Love quit or disgrace himself publicly.
+She wants the binding broken and Rivona restored to a dragon match. She needs to learn that honor without fairness is mere bullying, though she resists it. Every scheme aims to make Love quit or disgrace himself publicly.
 
 ## Location References
 

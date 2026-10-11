@@ -29,10 +29,13 @@ Control (latest user order): user controls characters/decisions/secrets/conseque
 |------|------|--------|------|
 | Beast Prideholds | Nation |  | [beast-prideholds](locations/beast-prideholds.md) |
 | Bharatvarsha Confederacy | Nation |  | [bharatvarsha-confederacy](locations/bharatvarsha-confederacy.md) |
+| Blackvein Wilds | Wilderness | Western Borderlands | [blackvein-wilds](locations/blackvein-wilds.md) |
 | Drakon Court | Capital |  | [drakon-court](locations/drakon-court.md) |
+| Hearthwick | Village | Western Borderlands | [hearthwick](locations/hearthwick.md) |
 | Kharzdar Deep-Realm | Nation |  | [kharzdar-deep-realm](locations/kharzdar-deep-realm.md) |
 | Longhua Dominion | Nation |  | [longhua-dominion](locations/longhua-dominion.md) |
 | Noxharrow | Capital |  | [noxharrow](locations/noxharrow.md) |
+| Silverpine Wood | Wilderness | Western Borderlands | [silverpine-wood](locations/silverpine-wood.md) |
 | Sylvan Realms | Territory |  | [sylvan-realms](locations/sylvan-realms.md) |
 | Valoria | Capital |  | [valoria](locations/valoria.md) |
 

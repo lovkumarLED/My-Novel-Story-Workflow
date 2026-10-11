@@ -14,7 +14,7 @@ arc: ""
 
 ## Appearance
 
-A beautiful, mature-looking woman whose apparent youth sits in contrast with the age she carries. She is half dwarf and half human. Her exact age and distinguishing features remain intentionally unspecified until they matter on the page.
+A beautiful, mature-looking household maid whose apparent youth sits in contrast with the age she carries. She is half dwarf and half human. Her exact age and distinguishing features remain intentionally unspecified until they matter on the page.
 
 ## Personality & Traits
 
@@ -28,7 +28,7 @@ Maera brought infant Love to a poor, elderly farmer and his wife. She claimed sh
 
 ## Motivations & Goals
 
-Stays with Love out of deep care — raised beside him since his childhood, attached as family and as his once-decided fiancee. Her present goal is to stay near him and protect him. What she knows about where he came from and why she brought him is deliberately hidden; she lies well to keep it buried until the author directs the reveal.
+Stays with Love out of deep care — raised beside him since his childhood, attached as family and as his once-decided fiancee. Her goal is to stay near Love and protect him. What she knows is a secret about Love — a really, really secret about Love that Love himself doesn't know — and what she knows about where Love came from and why she brought him is deliberately hidden; she lies well to keep it buried until the author directs the reveal.
 
 ## Location References
 

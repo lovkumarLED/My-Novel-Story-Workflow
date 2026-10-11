@@ -52,6 +52,9 @@ All story output (SCENARIO & SCENE, DIALOGUE, YOUR TURN prompts) is written in H
 ## HARD RULE — CHARACTER GENDER AND PRONOUNS
 Before writing or revising any character, check that character's profile and use its explicitly established gender and pronouns. Match Hindi verb/adjective agreement to the character and to the group being described. Never infer or change gender from a name, appearance, role, species, or prior prose. If the canon profile is missing or conflicting, ask the author rather than guess. When the author corrects gender or pronouns, update the profile and the affected prose, then check the whole passage for agreement.
 
+## HARD RULE — READER GLOSSES FOR UNFAMILIAR TERMS
+When a new, invented, or potentially confusing worldbuilding term first appears in an act, immediately add a short plain-language explanation in square brackets, in the scenario itself (for example, `ley-cell [a compact magical unit that stores leyline power for devices]`). Keep it brief, don't repeat it unnecessarily, and never substitute a different concept for the author's term. See [`sessions/FORMAT.md`](sessions/FORMAT.md).
+
 ## HARD RULE — THEORY FOLDER NEVER USED
 `theory-speculations/` is read-only fun. NEVER read it to construct stories, scenes, scenarios, chapters, or canon. Story truth comes only from `story.md`, `characters/`, `worldbuilding/`, `plot/`, `chapters/`.
 
@@ -60,7 +63,9 @@ Before writing or revising any character, check that character's profile and use
 - After any story file change: run maintenance block (`reindex`, `wordcount --write`, `check`) when CLI available; else follow `references/conventions.md` manually.
 - HARD RULE: Save each completed act in `sessions/` using the scenario-only format in [`sessions/FORMAT.md`](sessions/FORMAT.md). Each file contains the canonical story title, chapter/act title, and the complete published scenario—never raw user turns, prompt text, planning notes, or administrative metadata.
 - Keep the scenario itself full novel-style, including dialogue, tracker, recap, and the user's turn-ending prompt where present. Do not change the novel-writing pattern to satisfy the storage format.
-- Use one file per act and preserve the existing filename pattern. Re-read the latest session and [`sessions/_index.md`](sessions/_index.md) before continuing a scene.
+- HARD RULE — READ RECENT ACTS BEFORE CONTINUING: Before writing a new act, read the immediately preceding act and, when available, the two acts before it (up to three completed acts total). Also check [`sessions/_index.md`](sessions/_index.md) and any relevant character, plot, or worldbuilding files those acts point to. Use this recent sequence to preserve the actual scene order, decisions, cast, and unresolved beats; do not rely on chat memory or a summary alone. Do not read every older act by default unless the story requires it.
+- Use one file per act and preserve the existing filename pattern.
 - Keep turns FULL novel-style in interactive mode, never chat-short; full prose in sessions and in chat.
+- HARD RULE — NO ARBITRARY ACT LENGTH CAP: Write each act to the length its scenes need. Do not compress major events, emotional reactions, transitions, action, or character choices into a summary just to keep an act short. Long acts are welcome when the story calls for them; preserve the author's requested endpoint and stop there without writing past it.
 - Boundaries (non-negotiable): no explicit sexual content, no romantic/sexual content with minors, no self-harm glorification. Mature dark fantasy allowed: consensual adult slow-burn romance with off-page intimacy, court cruelty, prejudice, betrayal, violence, war, death, morally grey characters doing wrong things with consequences.
 
