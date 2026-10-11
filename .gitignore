@@ -1,0 +1,25 @@
+# Requested ignores (private / local-only)
+theory-speculations/
+.agents/
+.kilo/
+
+# Story working files that should never be published
+sessions/
+.snapshots/
+dist/
+*.story-*.tmp
+.story.lock
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Local secrets and large local outputs
+.env
+*.key
+*.pem
