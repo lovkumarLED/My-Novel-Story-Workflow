@@ -1,39 +1,74 @@
-# My Novel Story Workflow
+# Is the Prince of Dragons Really Hate Me?
 
-Personal working bible for a romantic fantasy novel.
-Working title: *Is the Prince of Dragons Really Hate Me* / *Does the Dragon Princess Really Hate Me?* (grammar intentional).
+*(also titled **Does the Dragon Princess Really Hate Me?** — the title grammar is intentional)*
 
-## Premise
+A romantic-fantasy novel written act by act, in **Hinglish** (Hindi in Latin script, with dialogue and narration both in the story's voice). Everything currently written is published in [`sessions/`](sessions/) — one file per act, in full novel prose.
 
-A poor human named Love is bound by ancient law into marriage with Rivona, the dragon princess who despises him. Rival suitors, courts, and the shadow of a 700-year-old Hero test whether contempt confronted daily can become understanding.
+![Princess Rivona Vaeltharis](images/characters/rivona-flux-02.png)
 
-Counter-premise: blood and rank decide worth — the strong owe nothing to the weak.
+## The hook
+
+Love is a poor human farmer whose harvest drowned in the rain. With nothing left, he walks fifteen days to the imperial capital to ask the throne for help — and arrives in the middle of the most important royal engagement of a generation.
+
+Then the Ancient Marriage Registry activates on its own. It recognizes a valid marriage bond between Love and **Princess Rivona Vaeltharis**, Crown Princess of the Draconic Empire — a bride who has never met him and wants nothing to do with him.
+
+The Registry is older than the empire itself, and by the Three Laws its ruling can be challenged in exactly one place: the High Court. So Love — with no title, no family name, and no wealth — is legally the husband of a woman who despises him, in a court where dragon blood decides everything.
+
+This is the story of whether contempt, faced every single day, can turn into something else.
 
 ## The world
 
-- 723 years since the Hero ended the Dragon Wars. The Hero has been missing 700+ years.
-- Three Laws carved in every capital: Tradition, Equal Citizenship, Equal Justice. Nobles sometimes evade them; old prejudices remain.
-- Binding mechanism: the Ancient Marriage Registry relic. A lawfully witnessed cross-throne bond can only be challenged through the High Court.
-- Nations: Draconic Empire of Vyrathis (capital Aurelthys), Kingdom of Aurelion (greatest human kingdom), Sylvan Realms (elves), Demon Dominion (capital Noxharrow), Longhua Dominion, Bharatvarsha Confederacy. Dwarves, beastfolk, spirits, merfolk and monster tribes also live here.
-- Gods approved the Laws through the Heavens, then fell silent on the Hero. Their only answer: "hero gets what he wants."
-- Magic and magitech: leyline engines, elven accumulation (elves grow giant with stored magic — release or die), great-human aura (the great age very slowly), mythical beasts of Light, Darkness, Fire, Water, Earth, Storm, Ice and more.
-- Tone: mature romantic fantasy. Court politics, war-action, slow-burn contempt-to-respect. Third-person-limited, Love as primary POV.
+- **723 years** have passed since the Dragon Wars ended. The world has grown peaceful — humans and elves trade, demons attend international conferences, dragon knights escort merchant caravans along mountain roads — but peace is not the same thing as equality.
+- The **Legendary Hero** who ended the Dragon Wars carved the **Three Laws** into a monument in every capital: *Tradition, Equal Citizenship, Equal Justice*. Nobles sometimes evade them, and old prejudices remain, but the Laws still give even the weakest person a place to stand and demand justice.
+- The **Draconic Empire of Vyrathis** (capital: **Aurelthys**) is the heart of the story. Here, dragon blood still decides social standing: ancient noble houses control the military, the treasury, and the imperial court. A dragon's order can move armies; a commoner's voice can struggle to reach the palace gate.
+- The world is shared by **dragons, humans, elves, demons, beastfolk, dwarves, merfolk, and monster tribes**, living under the uneasy peace of the Three Laws — and alongside the **Kingdom of Aurelion**, the **Sylvan Realms**, the **Demon Dominion of Noxharrow**, the **Longhua Dominion**, and the **Bharatvarsha Confederacy**.
+- **Magic and magitech**: leyline power is stored in **ley-cells** — compact magical units that drive magitech such as skyships, engines, and city power. Magic can also be accumulated, released, or turned into a weapon, and every use has a cost.
+- The **Ancient Marriage Registry** sits at the center of the story: a magical covenant older than the Three Laws, which recognizes binding marriage bonds and answers to no authority but the High Court.
 
-## The lore that matters
+## Read the story
 
-- PUBLIC TRUTH: the Hero vanished to another dimension with Dorna Kharzdar, the Dwarf King's daughter who loved him. The world believes both are dead and cannot return.
-- PRIVATE TRUTH of the Three Who Wait: Elven Queen Aelindra, former Beast Queen Sahira, and demon matriarch Queen Morwenna do not believe it. They wait because the Hero promised them a proper, normal, simple life once hardship ends — and that life never came.
-- Old Dragon King Zarvath Vaeltharis was one of the Hero's commanders and promised him something unknown. No one knows what — not even the current King Aldric, who served as a junior and never saw the Hero.
-- Dwarf succession approaches: old King Thorgrim Kharzdar will pass rule to his sister's son Braldor. His daughter's departure is recorded. Her return is not.
-- The dragon court watches Love: does this human weaken the throne, or prove the law wiser than its critics?
+Each act below is one complete chapter-segment, published in [`sessions/`](sessions/) in full novel-style prose.
 
-## Open questions (no answers here)
+### Chapter 1 — A marriage that should never have happened
 
-- Who is Love, really? What is he hiding?
-- Who is Maera Stoneveil? Why does she stay beside Love, and what does she know about where he came from?
-- Who is the Hero now — dead, gone, or waiting?
-- Who left with whom 700 years ago, and why?
-- What did old King Zarvath promise?
-- Can contempt become respect without breaking either of them?
+| Act | Title |
+|-----|-------|
+| 1 | Woh Shaadi Jo Kabhi Nahi Honi Chahiye Thi |
+| 2 | Ek Gareeb Kisaan Aur Dragon Princess Ki Shaadi |
+| 3 | The Broken Bride |
+| 4 | The Farmer Who Refused To Bow To Destiny |
+| 5 | The Life He Never Asked For |
+| 6 | The Man Who Never Arrived |
+| 7 | Broken Bride, Three Laws, Kyle, Envelope |
+| 8 | Raat Se Pehle Ka Sannata |
+| 9 | Faisle Ki Subah, Unbreakable Bond |
+| 10 | Ek Aisa Bandhan Jiska Anjaam Maut Hai |
+| 11 | Teen Laws, Ek Dhaaga Aur Ek Behosh Kisaan |
+| 12 | Behoshi Ke Peechhe Ka Raaz |
+| 13 | Woh Raaz Jo Registry Ne Chhupa Rakha Tha |
+| 14 | Hosh Toh Aa Gaya, Musibat Abhi Baaki Hai |
+| 15 | Ghar Wapas Jaane Ka Sawaal |
+| 16 | Ek Khet, Ek Udaan-Yaan, Aur Ek Devta |
+| 17 | Ghar Ki Raah Aur Jungle Ka Pukaar |
 
-No session logs, drafts, or current events belong in this file. Canon lives in `story.md`, `characters/`, `worldbuilding/`, `plot/`.
+### Chapter 2 — Into the forest
+
+| Act | Title |
+|-----|-------|
+| 1 | Jungle Ka Raasta Aur Ley-Cell Ka Raaz |
+| 2 | Maera Ka Gussa Aur Ghayal Kyle |
+| 3 | Jungle Ke Upar, Subah Se Pehle |
+| 4 | The Two-Hour Nightmare |
+| 5 | The Maid With The Kitchen Set |
+| 6 | Skyship Se Chhalang |
+| 7 | Baingani Raakh |
+
+## Art
+
+Anime-style character portraits and realistic scene art live in [`images/`](images/).
+
+![The imperial gates in the rain](images/scenes/palace-gates-rain-01.png)
+
+## License
+
+All rights reserved. See [`LICENSE`](LICENSE).

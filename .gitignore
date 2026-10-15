@@ -1,14 +1,34 @@
-# Requested ignores (private / local-only)
+# ==================================================================
+# PRIVATE — story bible, planning, and spoilers. NEVER published.
+# Everything here stays on disk; it is only untracked from git.
+# ==================================================================
+characters/
+worldbuilding/
+plot/
+continuity/
+glossary/
+scenes/
+chapters/
+story.md
+agent.md
+reply-pattern.md
+style-sheet.md
+skills-lock.json
 theory-speculations/
 .agents/
 .kilo/
 
-# Story working files that should never be published
-sessions/
+# Story working internals (the published acts under sessions/ are kept)
+sessions/*.tmp
 .snapshots/
 dist/
 *.story-*.tmp
 .story.lock
+
+# Spoiler-named character portraits (the "Three Who Wait")
+images/characters/aelindra-flux-01.png
+images/characters/sahira-flux-01.png
+images/characters/morwenna-flux-01.png
 
 # OS and editor files
 .DS_Store
