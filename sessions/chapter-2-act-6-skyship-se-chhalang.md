@@ -149,7 +149,7 @@ Elowen: "Resistance... har baar badh raha hai..."
 
 Maera sochne lagi — ise maare kaise? Monster ko maare kaise?
 
-Tabhi Maera ki nazar padi — monster ka ek bahut hi chhota tukda, ungli ke size se bhi chhota, uske side se rengta guzar raha tha. Maera ne use dekha. Maera ne us par ungli se chhoti si aag chhodi. Tukda jal gaya — poora, raakh. Khatam ho gaya.
+Tabhi Maera ki nazar padi — monster ka ek bahut hi chhota tukda, ungli ke size se bhi chhota, uske side se rengta guzar raha tha. Maera ne use dekha. Maera ne us par ungli se chhoti si aag chhodi. Tukda jal gaya — poora, ash. Khatam ho gaya.
 
 Maera ki aankhen chamkin. Use todna hai — itne tukde karo ki judne ka waqt hi na mile.
 
@@ -167,7 +167,7 @@ Ye sab dekhkar neeche Rivona aur uske dost hairaan the. Upar skyship me Love khi
 
 Aur Garrick ko ab ehsaas ho raha tha ki Maera kya cheez hai. Farmhouse me jab Maera ne itne confidence se kaha tha "main sambhaal loongi, ismein darr kya hai" — use laga tha sab mazaak hai. Usne dheemi awaaz me Ilyra se kaha:
 
-Garrick: "Ab samajh aa raha hai... us shaam farmhouse me usne itne confidence se kaha tha 'main sambhaal loongi' — mujhe laga mazaak hai. Maine aaj tak aisa kuch nahi dekha. Dwarf dekhe hain, taakatwar hote hain — lekin ek half-dwarf me itni taakat? Kaise? Main ye process hi nahi kar paa raha hoon. Lekin ab itna samajh aa gaya — uska confidence aisa hi nahi tha."
+Garrick: "Ab samajh aa raha hai... is shaam farmhouse me usne itne confidence se kaha tha 'main sambhaal loongi' — mujhe laga mazaak hai. Maine aaj tak aisa kuch nahi dekha. Dwarf dekhe hain, taakatwar hote hain — lekin ek half-dwarf me itni taakat? Kaise? Main ye process hi nahi kar paa raha hoon. Lekin ab itna samajh aa gaya — uska confidence aisa hi nahi tha."
 
 Ilyra ne bas sir hilaaya, nazar Maera par:
 
@@ -199,7 +199,7 @@ Phir woh spell karti hai. Itna bhayaanak spell. Woh dono haath aasmaan ki taraf 
 
 Maera: "Destruction, main tumhein pukaar rahi hoon, mere paas aao. Apni aag, aag ki shakti mujhe do, itni aag paida karo jitna sooraj chamakta hai, mujhe tumhari shakti chahiye, Destructive beam of fire!"
 
-Ek bada spell hua. Maera ke haathon se aag aur poori roshni nikli — laser ki tarah upar ki taraf, seedha, bahut upar, baadalon ko cheerkar paar karti hui. Roshni itni tez thi ki sabko aankhen band karni padin. Uske baad ilaaka, jis jagah spell hua, bhatti jaise garam ho gaya — hawa jalne lagi, zameen laal padne lagi. Aur monster ki har cheez — tukde, kaante, crystal — raakh me badal gayi. Hawa me sirf raakh udi.
+Ek bada spell hua. Maera ke haathon se aag aur poori roshni nikli — laser ki tarah upar ki taraf, seedha, bahut upar, baadalon ko cheerkar paar karti hui. Roshni itni tez thi ki sabko aankhen band karni padin. Uske baad ilaaka, jis jagah spell hua, bhatti jaise garam ho gaya — hawa jalne lagi, zameen laal padne lagi. Aur monster ki har cheez — tukde, kaante, crystal — ash me badal gayi. Hawa me sirf ash udi.
 
 Raat itni ujli ho gayi thi ki poora surrounding ilaaka din jaise jagmaga utha. Roshni itni door gayi ki door-daraaz gaon tak pahunch gayi — woh gaon jo paas nahi, bahut door tha. Wahan do gaonwale chaunkkar uth baithe.
 
@@ -222,20 +222,20 @@ Forced bond ko lekar nafrat qayam hai.
 Abhi koi romantic affection nahi hai.
 
 **Confusion — 100/100**  
-Maid ka Dwarf God aur Destruction spell, shields aur monster ka raakh hona samajh nahi aaya.
+Maid ka Dwarf God aur Destruction spell, shields aur monster ka ash hona samajh nahi aaya.
 
 **Anger — 78/100**  
-Monster raakh ho gaya, lekin do ghante ki fight ki thakaan abhi baaki hai.
+Monster ash ho gaya, lekin do ghante ki fight ki thakaan abhi baaki hai.
 
 **Jealousy — 22/100**  
 Kyle aur friends ki fikr haavi hai; romantic jealousy nahi hai.
 
 ## Haalat ka chhota sa recap
 
-Royal skyship battlefield ke paas pahunchti hai. Garrick shock me kehta hai rajkumari yahan kyun hai, Ilyra batati hai ye kharaab ley-cell se bana mutated monster hai. Maera poochhti hai kya woh lad nahi paa rahe, Garrick unki tooti haalat dikhata hai aur kehta hai rajkumari ko bachana padega. Ilyra akele ladne se rokti hai, Garrick maanta hai ye S-class threat hai, poori team ya army chahiye. Love ke kehne par Maera wink karke skyship se kood jaati hai, Garrick-Ilyra hairan hote hain. Maera Rivona ke saamne land karke monster ka haath kaatti hai (aage ka save aur kitchen fight hum dekh chuke hain). Current me monster drill-snake form me badalkar Maera par jhaptta hai, Maera uske shareer par daudkar blast karti hai lekin tukde tezi se judte hain. Rivona chillati hai use judne mat do. Maera jet-jaisi aag se jalati hai, mitti lava jaise pighalti hai, lekin resistance zyada hai. Chhota tukda chhoti aag se khatam hota dekh woh monster ke anginat tukde karti hai, crystal par chammach maarti hai, Dwarf God ko pukaarkar sab par shields laati hai, phir Destruction spell se laser-jaisi aag me monster raakh ho jaata hai.
+Royal skyship battlefield ke paas pahunchti hai. Garrick shock me kehta hai rajkumari yahan kyun hai, Ilyra batati hai ye kharaab ley-cell se bana mutated monster hai. Maera poochhti hai kya woh lad nahi paa rahe, Garrick unki tooti haalat dikhata hai aur kehta hai rajkumari ko bachana padega. Ilyra akele ladne se rokti hai, Garrick maanta hai ye S-class threat hai, poori team ya army chahiye. Love ke kehne par Maera wink karke skyship se kood jaati hai, Garrick-Ilyra hairan hote hain. Maera Rivona ke saamne land karke monster ka haath kaatti hai (aage ka save aur kitchen fight hum dekh chuke hain). Current me monster drill-snake form me badalkar Maera par jhaptta hai, Maera uske shareer par daudkar blast karti hai lekin tukde tezi se judte hain. Rivona chillati hai use judne mat do. Maera jet-jaisi aag se jalati hai, mitti lava jaise pighalti hai, lekin resistance zyada hai. Chhota tukda chhoti aag se khatam hota dekh woh monster ke anginat tukde karti hai, crystal par chammach maarti hai, Dwarf God ko pukaarkar sab par shields laati hai, phir Destruction spell se laser-jaisi aag me monster ash ho jaata hai.
 
 ## Tumhari baari, Love
 
-Monster raakh ho gaya hai. Shields ke andar Rivona, uske friends, ghayal sainik, aur upar skyship sab surakshit hain. Maera battlefield me khadi hai.
+Monster ash ho gaya hai. Shields ke andar Rivona, uske friends, ghayal sainik, aur upar skyship sab surakshit hain. Maera battlefield me khadi hai.
 
 Love ab kya kehta hai ya karta hai?

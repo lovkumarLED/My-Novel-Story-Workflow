@@ -1,5 +1,5 @@
 # Does the Dragon Princess Really Hate Me?
-## Chapter 2 — Act 7: Baingani Raakh
+## Chapter 2 — Act 7: Purple Ash
 
 Location: Silverpine-Blackvein battlefield aur upar royal skyship, gehri raat
 
@@ -7,7 +7,7 @@ Destructive beam of fire ka attack ho chuka tha.
 
 Uski chamak dheere-dheere kam hui. Roshni dhundli padi. Aur tab logon ko sab kuch saaf-saaf dikhai dene laga. Royal skyship ke upar Garrick aur Ilyra ko har cheez dikhne lagi, pilot ko bhi dikhne lagi. Neeche Rivona aur uske saathiyon ko bhi har ek cheez saaf-saaf dikhne lagi.
 
-Environment ab kuch aisa tha — poora clearing jala-kaala pada tha. Zameen par gehre craters the, unme pighli mitti jam gayi thi. Toote tane aade-tedhe pade the. Hawa me smoke aur raakh ghuli thi. Bikhre weapons — tooti talwaren, toota dagger, mudi blade — mitti me dhase the. Behosh sainik zameen par pade the. Kyle aadhe-hosh me pada tha, uske chaaron taraf Rivona ke friends baithe ya lete the, thake haare. Skyship upar mandra rahi thi, uske engines ki neeli roshni neeche gir rahi thi.
+Environment ab kuch aisa tha — poora clearing jala-kaala pada tha. Zameen par gehre craters the, unme pighli mitti jam gayi thi. Toote tane aade-tedhe pade the. Hawa me smoke aur ash ghuli thi. Bikhre weapons — tooti talwaren, toota dagger, mudi blade — mitti me dhase the. Behosh sainik zameen par pade the. Kyle aadhe-hosh me pada tha, uske chaaron taraf Rivona ke friends baithe ya lete the, thake haare. Skyship upar mandra rahi thi, uske engines ki neeli roshni neeche gir rahi thi.
 
 Aur sabke beech me, dhool ke hatne ke baad, sabki nazar beech me khadi ek maid par padi.
 
@@ -51,9 +51,9 @@ Love kuch nahi bola. Woh upar se Maera ko dekhkar bas muskura raha tha. Kyle kuc
 
 Lekin abhi poori tarah monster mara nahi tha.
 
-Monster ke jalne ke baad environment me sirf raakh bachi thi — har taraf khaas purple raakh bikhri hui thi. Dekhne me ajeeb lagta tha — har cheez purple-purple si, jaise triple purple rang ka kohra ho. Lekin us raakh me uski magical energy abhi bhi thi — tremendous, aur sabse khatarnak. Use khatam nahi kiya ja sakta tha — law hai na ki energy ko khatam nahi kiya ja sakta, sirf badal sakte hain.
+Monster ke jalne ke baad environment me sirf ash bachi thi — har taraf khaas purple ash bikhri hui thi. Dekhne me ajeeb lagta tha — har cheez purple-purple si, jaise triple purple rang ka fog ho. Lekin us ash me uski magical energy abhi bhi thi — tremendous, aur sabse khatarnak. Use khatam nahi kiya ja sakta tha — law hai na ki energy ko khatam nahi kiya ja sakta, sirf badal sakte hain.
 
-Woh magical energy dobara ek saath aakar ek naya monster banane ki koshish karti rahi. Lekin us raakh se naya monster form nahi kar paayi. Aaspaas ke environment se bhi nahi — kyunki kuch bacha hi nahi tha. Maera ne har cheez raakh bana di thi. Maans ka koi tukda nahi tha, kuch tha hi nahi jisse woh ek naya monster, ek shareer bana paaye. Woh energy apne liye ek shareer banane ki koshish karti rahi, lekin bana nahi paayi.
+Woh magical energy dobara ek saath aakar ek naya monster banane ki koshish karti rahi. Lekin us ash se naya monster form nahi kar paayi. Aaspaas ke environment se bhi nahi — kyunki kuch bacha hi nahi tha. Maera ne har cheez ash bana di thi. Maans ka koi tukda nahi tha, kuch tha hi nahi jisse woh ek naya monster, ek shareer bana paaye. Woh energy apne liye ek shareer banane ki koshish karti rahi, lekin bana nahi paayi.
 
 Lekin woh massive magical energy abhi bhi environment me thi. Maera ko is baat ka ehsaas ho gaya. Maera ne sabko peeche hatne ke liye kaha — Rivona aur uske saathiyon ko.
 
@@ -69,13 +69,13 @@ Nymera: "Samajh gaye... sab peeche hato..."
 
 Seraphine ne Elowen ka haath pakadkar use apni taraf kheench liya. Rivona aadhe-hosh Kyle ke paas hi jhuk gayi, use chhodkar peeche nahi hategi — bas Maera ki baat maan rahi thi.
 
-Environment me khaas tarah ka purple rang ka dhuaan tha — jo asliyat me monster ki raakh thi. Purple kohre ki tarah lag raha tha. Woh kohra, woh magical energy, ab Blackvein Wilds ke jitne monsters the — samraajya ka sabse khatarnak jungle, na sirf samraajya ka, duniya ka sabse khatarnak jungle — us jungle ke saare khatarnak monsters ko apni taraf aakarshit kar raha tha. Blackvein ke saamne wala forest — Silverpine Wood — uske monsters ko bhi apni taraf kheench raha tha.
+Environment me khaas tarah ka purple rang ka dhuaan tha — jo asliyat me monster ki ash thi. Purple fog ki tarah lag raha tha. Woh fog, woh magical energy, ab Blackvein Wilds ke jitne monsters the — samraajya ka sabse khatarnak jungle, na sirf samraajya ka, duniya ka sabse khatarnak jungle — us jungle ke saare khatarnak monsters ko apni taraf aakarshit kar raha tha. Blackvein ke saamne wala forest — Silverpine Wood — uske monsters ko bhi apni taraf kheench raha tha.
 
 Garrick ne neeche jungle ki taraf dekha. Uske chehre ka rang ud gaya. Wahi ehsaas — jo use Love ke ghar jaate waqt raaste me hua tha. Woh unhe mehsoos toh kar paa raha tha, lekin woh monsters itne taakatwar the ki woh unhe properly detect nahi kar paa raha tha, andaaza nahi laga paa raha tha.
 
 Garrick: "Aa rahe hain... sab aa rahe hain..."
 
-Jungle se awaazen aane lagin — dahaadein, cheekhein, pankhon ki phadphadahat. Ped hilne lage. Pehle Blackvein se aaye — S-rank monsters. Ek griffin [sher ka shareer, eagle ka sir aur pankh wala shikaari monster] aasmaan cheerkar utra, uske peeche gorilla-type monsters pedon ko cheerkar bahar aaye. Phir Silverpine se — bhediye-type monsters ke jhund, sher-type monsters, udne wale monsters. Sab us purple kohre ki taraf badh rahe the.
+Jungle se awaazen aane lagin — dahaadein, cheekhein, pankhon ki phadphadahat. Ped hilne lage. Pehle Blackvein se aaye — S-rank monsters. Ek griffin [sher ka shareer, eagle ka sir aur pankh wala shikaari monster] aasmaan cheerkar utra, uske peeche gorilla-type monsters pedon ko cheerkar bahar aaye. Phir Silverpine se — bhediye-type monsters ke jhund, sher-type monsters, udne wale monsters. Sab us purple fog ki taraf badh rahe the.
 
 Maera ko is cheez ka ehsaas hua. Usne thaki saans li:
 
@@ -256,7 +256,7 @@ Kyle aur friends ki fikr haavi hai; romantic jealousy nahi hai.
 
 ## Haalat ka chhota sa recap
 
-Beam ke baad environment saaf dikhta hai — Maera soup spoon aur ladle ke saath khadi hai, sab jashn manaate hain (Garrick Legendary level kehta hai, dost maid ko chhupi yoddha kehte hain, pilot joke maarta hai, Love muskuraata hai). Lekin purple raakh aur magical energy bachi hai — energy shareer banana chahti hai, nahi bana paati. Maera sabko peeche hatne ko kehti hai. Purple kohra Blackvein aur Silverpine ke S-rank monsters (griffin, gorilla-type, bhediye, sher-type, udne wale) ko kheenchta hai. Rengne wale monsters par Maera ko ghin aati hai — woh ladne se inkaar karke bhaagti hai, sab silent comedy me dekhte hain. Snake usko jakadta hai, woh freeze ho jaati hai aur Love ko pukaarti hai — Rivona hairaan hoti hai kisaan ko kyun bulaya. Bitter gourd blackmail par Love mattock lekar seal spell (air, speed, fire) padhkar kood jaata hai — Garrick pakadne daudta hai, Rivona chillati hai Love!
+Beam ke baad environment saaf dikhta hai — Maera soup spoon aur ladle ke saath khadi hai, sab jashn manaate hain (Garrick Legendary level kehta hai, dost maid ko chhupi yoddha kehte hain, pilot joke maarta hai, Love muskuraata hai). Lekin purple ash aur magical energy bachi hai — energy shareer banana chahti hai, nahi bana paati. Maera sabko peeche hatne ko kehti hai. Purple fog Blackvein aur Silverpine ke S-rank monsters (griffin, gorilla-type, bhediye, sher-type, udne wale) ko kheenchta hai. Rengne wale monsters par Maera ko ghin aati hai — woh ladne se inkaar karke bhaagti hai, sab silent comedy me dekhte hain. Snake usko jakadta hai, woh freeze ho jaati hai aur Love ko pukaarti hai — Rivona hairaan hoti hai kisaan ko kyun bulaya. Bitter gourd blackmail par Love mattock lekar seal spell (air, speed, fire) padhkar kood jaata hai — Garrick pakadne daudta hai, Rivona chillati hai Love!
 
 ## Tumhari baari, Love
 
