@@ -10,13 +10,13 @@ glossary/
 scenes/
 chapters/
 story.md
-agent.md
-reply-pattern.md
-style-sheet.md
 skills-lock.json
 theory-speculations/
 .agents/
 .kilo/
+
+# NOTE: the workflow docs are intentionally PUBLIC and tracked:
+#   agent.md, reply-pattern.md, style-sheet.md, sessions/FORMAT.md
 
 # Story working internals (the published acts under sessions/ are kept)
 sessions/*.tmp
