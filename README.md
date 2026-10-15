@@ -2,9 +2,43 @@
 
 *(also titled **Does the Dragon Princess Really Hate Me?** — the title grammar is intentional)*
 
-A romantic-fantasy novel written act by act, in **Hinglish** (Hindi in Latin script, with dialogue and narration both in the story's voice). Everything currently written is published in [`sessions/`](sessions/) — one file per act, in full novel prose.
+**This repository is a novel-writing workflow** — an agent-driven pipeline of 24 story-skills — together with the novel it has produced so far. The story is written act by act in **Hinglish** (Hindi in Latin script; narration and dialogue both in the story's voice).
 
 ![Princess Rivona Vaeltharis](images/characters/rivona-flux-02.png)
+
+## How this workflow works
+
+This repo is the **workflow** that writes the novel, plus everything it has produced. The rules live in three tracked documents:
+
+- **[`agent.md`](agent.md)** — the master router. It lists all **24 story-skills** and exactly when each one fires, along with the project's hard rules (language, improvise-don't-copy, pronouns, reader glosses).
+- **[`reply-pattern.md`](reply-pattern.md)** — the turn loop the agent runs every single turn.
+- **[`style-sheet.md`](style-sheet.md)** — the house style, kept the way a copyeditor keeps it.
+
+### The turn loop
+
+Every turn runs in exactly this order:
+
+1. **Title block** — story title, `Chapter N — Act M: <subtitle>`, then the location.
+2. **Novel-style Hinglish narration** — the consequences of the previous reply are woven in; the world and every NPC act on their own agendas; the agent never speaks or acts for the protagonist.
+3. **Dialogue** — `Name: "line"`, in-character voices only.
+4. **Rivona's Feelings Tracker** — her meters (Hate / Affection / Confusion / Anger / Jealousy), moved only by what the player actually does, never granted freely.
+5. **Recap** — a short "where we stand" summary.
+6. **"Tumhari baari"** — one direct question, then **STOP**. The human's reply decides what happens next: the story is *discovered*, never pre-planned.
+
+### The skill pipeline
+
+The router in `agent.md` dispatches to one of 24 skills across the whole life of a book:
+
+| Stage | Skills |
+|-------|--------|
+| **Plan** | premise-workshop → story-init → worldbuilding → character-management → voice-style → theme-craft → genre-craft → plot-structure |
+| **Draft** | scene-craft → chapter-writing → (discovery-drafting · verse-craft · interactive-fiction) → line-editing |
+| **Revise** | revision-continuity → story-maintenance → series-continuity → reader-panel → feedback-triage → editorial-review |
+| **Release** | submission → publishing → adaptation |
+
+### Where the output goes
+
+Each completed act is saved as one file in [`sessions/`](sessions/) — the published scenario only, never raw prompts or planning ([format rules](sessions/FORMAT.md)). The act list below is the result so far.
 
 ## The hook
 
@@ -61,7 +95,7 @@ Each act below is one complete chapter-segment, published in [`sessions/`](sessi
 | 4 | The Two-Hour Nightmare |
 | 5 | The Maid With The Kitchen Set |
 | 6 | Skyship Se Chhalang |
-| 7 | Baingani Raakh |
+| 7 | Purple Ash |
 
 ## Art
 
