@@ -1,6 +1,6 @@
-# Is the Prince of Dragons Really Hate Me?
+# Does the Dragon Princess Really Hate Me?
 
-*(also titled **Does the Dragon Princess Really Hate Me?** — the title grammar is intentional)*
+*(the title's grammar is intentional)*
 
 **This repository is a novel-writing workflow** — an agent-driven pipeline of 24 story-skills — together with the novel it has produced so far. The story is written act by act in **Hinglish** (Hindi in Latin script; narration and dialogue both in the story's voice).
 
